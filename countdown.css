@@ -1,0 +1,27 @@
+*{
+    
+    background-color: yellowgreen;
+}
+
+.enddate{
+    width:480px;
+    height: 90px;
+    font-size: 50px;
+    border: 5px solid skyblue;
+}
+.days{
+    border: 5px solid burlywood;
+  font-size: 70px;
+}
+.hours{
+    border: 5px solid burlywood;
+    font-size: 70px;
+}
+.minutes{
+    border: 5px solid burlywood;
+    font-size: 70px;
+}
+.seconds{
+    border: 5px solid burlywood;
+    font-size: 70px;
+}
